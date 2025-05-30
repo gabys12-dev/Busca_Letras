@@ -105,13 +105,11 @@ lib/
 ---
 
 ## ✍️ Equipe de Desenvolvimento
-Gabryella Gonçalves – Interface e lógica do jogo
 
-Antonhy Cardoso – Temas e mecânica de seleção
-
-Kaio Marcio – Sistema de pontuação e níveis
-
-Rafael Rocha – Organização do código e documentação
+- [Gabryella Gonçalves](https://github.com/gabys12-dev) – Interface e lógica do jogo  
+- [Antonhy Cardoso](https://github.com/Anthony2038) – Temas e mecânica de seleção  
+- [Kaio Marcio](https://github.com/Kaioz47) – Sistema de pontuação e níveis  
+- [Rafael Rocha](https://github.com/Rafaremo33) – Organização do código e documentação 
 
 ---
 
