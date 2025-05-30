@@ -78,16 +78,18 @@ lib/
 ├── screen/
 │   ├── screen_inform.dart
 │   ├── screen_menu.dart
-│   └── screen_play.dart
+│   ├── screen_play.dart
+│   ├── screen_playclassic.dart
+│   ├── screen_playday.dart
+│   ├── screen_playtema.dart
+│   ├── screen_playtemp.dart
+│   └── screen_rules.dart
 │
-├── widgets/
-│   ├── word_grid.dart
-│   └── word_list.dart
+├── utils/
+│   └── puzzle_generator.dart
 │
-├── models/
-│   └── word.dart
-│
-└── utils/
+├── widget/
+│   └── widget_word_search.dart
 ```
 
 ---
