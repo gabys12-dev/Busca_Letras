@@ -1,5 +1,7 @@
 # 🔠 Busca Letras – Jogo Mobile de Caça-Palavras
 
+![](Imagens/topo.png)
+
 **Busca Letras** é um jogo de caça-palavras interativo e desafiador, desenvolvido para dispositivos móveis com Flutter. Ideal para todas as idades, o jogo estimula vocabulário, memória e raciocínio lógico, combinando diversão com aprendizado.
 
 ---
@@ -15,12 +17,12 @@ Com temas variados e múltiplos níveis de dificuldade, o jogo mantém o desafio
 ## 🎮 Funcionalidades
 
 - **Modos de Jogo**:
-  - **Clássico**: Encontre todas as palavras no menor tempo possível.
+  - **Clássico**: Encontre todas as palavras.
   - **Tempo**: Encontre o máximo de palavras antes que o tempo acabe.
   - **Temático**: As palavras seguem um tema específico, como "animais", "esportes", entre outros.
 
 - **Grade de Jogo**:
-  - A grade de letras permite encontrar palavras na horizontal, vertical e diagonal.
+  - A grade de letras permite encontrar palavras na horizontal e vertical.
   - As palavras são inseridas em posições aleatórias, garantindo um desafio dinâmico.
 
 - **Interatividade**:
@@ -95,7 +97,10 @@ lib/
 ---
 
 ## 📸 Capturas de Tela
-(Adicione aqui capturas da interface do jogo rodando no dispositivo móvel)
+![Menu Principal](Imagens/Principal.png)
+![Jogo1](Imagens/Jogo1.png)
+![Jogo2](Imagens/Jogo2.png)
+
 
 ---
 
